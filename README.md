@@ -57,7 +57,7 @@ Basic SQL Queries
 
 Update and Alter Table Queries
 ------------------------------
-7. Update name of patient (ID = 5) to Kamal:
+7. Update name of patient (ID = 5) to Robert Fernandez:
    UPDATE PATIENT SET NAME = 'Kamal', SURNAME = '' WHERE PATIENT_ID = 5;
 <img width="295" height="130" alt="Screenshot 2025-08-07 152252" src="https://github.com/user-attachments/assets/03573679-dc6e-49ad-ba36-334963c28345" />
 
